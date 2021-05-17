@@ -11,7 +11,9 @@ A readme best describes the content and aim of your repository and the project, 
 ![java-shield]
 ![python-shield]
 ![csharp-shield]
-
+![javascript-shield]
+![php-shield]
+![mysql-shield]
 
 <!-- Links to Shields Here -->
 [c-shield]: https://img.shields.io/badge/-C-3744A7?logo=c&logoColor=white&style=for-the-badge
@@ -19,5 +21,6 @@ A readme best describes the content and aim of your repository and the project, 
 [java-shield]: https://img.shields.io/badge/-Java-E06C00?logo=java&logoColor=white&style=for-the-badge
 [python-shield]: https://img.shields.io/badge/-Python-3A74A5?logo=python&logoColor=white&style=for-the-badge
 [csharp-shield]: https://img.shields.io/badge/-C%20%23-903BA7?logo=c%20sharp&logoColor=white&style=for-the-badge
-
-
+[javascript-shield]: https://img.shields.io/badge/-Javascript-EDD718?logo=javascript&logoColor=black&style=for-the-badge
+[php-shield]: https://img.shields.io/badge/-PHP-858EBB?logo=php&logoColor=black&style=for-the-badge
+![mysql-shield]: https://img.shields.io/badge/-MYSQL-016086?logo=mysql&logoColor=white&style=for-the-badge
