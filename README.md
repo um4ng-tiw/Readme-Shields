@@ -46,13 +46,14 @@ A readme best describes the content and aim of your repository and the project, 
 ![node-shield]
 ![npm-shield]
 
-## AI/ML
+### AI/ML
 ![sklearn-shield]
 ![pandas-shield]
 ![opencv-shield]
 ![tensorflow-shield]
 ![keras-shield]
 ![pytorch-shield]
+![apachespark-shield]
 
 
 <!-- Links to Shields Here -->
@@ -95,4 +96,5 @@ A readme best describes the content and aim of your repository and the project, 
 [tensorflow-shield]:https://img.shields.io/badge/-Tensorflow-orange?logo=tensorflow&logoColor=white&style=for-the-badge
 [keras-shield]:https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white&style=for-the-badge
 [pytorch-shield]: https://img.shields.io/badge/-Pytorch-E74A2B?logo=pytorch&logoColor=white&style=for-the-badge
+[apachespark-shield]: https://img.shields.io/badge/-Apache%20Spark-3A383C?logo=apache%20spark&logoColor=DA4D00&style=for-the-badge
 
