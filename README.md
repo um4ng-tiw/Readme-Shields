@@ -14,6 +14,12 @@ A readme best describes the content and aim of your repository and the project, 
 ![javascript-shield]
 ![php-shield]
 ![mysql-shield]
+![ruby-shield]
+![r-shield]
+![go-shield]
+![swift-shield]
+
+
 
 <!-- Links to Shields Here -->
 [c-shield]: https://img.shields.io/badge/-C-3744A7?logo=c&logoColor=white&style=for-the-badge
@@ -24,3 +30,7 @@ A readme best describes the content and aim of your repository and the project, 
 [javascript-shield]: https://img.shields.io/badge/-Javascript-EDD718?logo=javascript&logoColor=black&style=for-the-badge
 [php-shield]: https://img.shields.io/badge/-PHP-858EBB?logo=php&logoColor=black&style=for-the-badge
 [mysql-shield]: https://img.shields.io/badge/-MYSQL-016086?logo=mysql&logoColor=white&style=for-the-badge
+[ruby-shield]: https://img.shields.io/badge/-Ruby-E80E12?logo=Ruby&logoColor=white&style=for-the-badge
+[r-shield]: https://img.shields.io/badge/-R-2062B0?logo=R&logoColor=white&style=for-the-badge
+[go-shield]: https://img.shields.io/badge/-GO-00A7D0?logo=Go&logoColor=white&style=for-the-badge
+[swift-shield]: https://img.shields.io/badge/-SWIFT-F64014?logo=swift&logoColor=white&style=for-the-badge
