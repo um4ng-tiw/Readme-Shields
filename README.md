@@ -23,4 +23,4 @@ A readme best describes the content and aim of your repository and the project, 
 [csharp-shield]: https://img.shields.io/badge/-C%20%23-903BA7?logo=c%20sharp&logoColor=white&style=for-the-badge
 [javascript-shield]: https://img.shields.io/badge/-Javascript-EDD718?logo=javascript&logoColor=black&style=for-the-badge
 [php-shield]: https://img.shields.io/badge/-PHP-858EBB?logo=php&logoColor=black&style=for-the-badge
-![mysql-shield]: https://img.shields.io/badge/-MYSQL-016086?logo=mysql&logoColor=white&style=for-the-badge
+[mysql-shield]: https://img.shields.io/badge/-MYSQL-016086?logo=mysql&logoColor=white&style=for-the-badge
