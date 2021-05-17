@@ -25,6 +25,8 @@ A readme best describes the content and aim of your repository and the project, 
 ![mysql-shield] 
 ![mongodb-shield]
 ![redis-shield]
+![postgresql-shield]
+![mariadb-shield]
 
 <!-- Links to Shields Here -->
 [c-shield]: https://img.shields.io/badge/-C-3744A7?logo=c&logoColor=white&style=for-the-badge
@@ -42,4 +44,6 @@ A readme best describes the content and aim of your repository and the project, 
 [perl-shield]: https://img.shields.io/badge/-Perl-374680?logo=perl&logoColor=white&style=for-the-badge
 [mongodb-shield]: https://img.shields.io/badge/-MongoDB-129B4E?logo=mongodb&logoColor=white&style=for-the-badge
 [redis-shield]: https://img.shields.io/badge/-Redis-DF6C64?logo=redis&logoColor=white&style=for-the-badge
+[postgresql-shield]: https://img.shields.io/badge/-POSTGRESQL-325C8E?logo=postgreSQL&logoColor=white&style=for-the-badge
+[mariadb-shield]: https://img.shields.io/badge/-MariaDB-BA7257?logo=mariaDB&logoColor=white&style=for-the-badge
 
