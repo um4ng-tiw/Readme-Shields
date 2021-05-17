@@ -6,6 +6,8 @@ A readme best describes the content and aim of your repository and the project, 
 
 ## Shields
 
+![github-shield]
+
 ### Programming Languages
 
 ![c-shield]
@@ -55,6 +57,28 @@ A readme best describes the content and aim of your repository and the project, 
 ![pytorch-shield]
 ![apachespark-shield]
 
+### Contact with links
+
+[![instagram-shield]][instagram]  [![linkedin-shield]][linkedin]
+
+## Usage
+
+Fork the project. Find the links to the desired shield. Copy & paste in your readme.
+
+## Contributing
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+## Contact
+[![instagram-shield]][instagram]  [![linkedin-shield]][linkedin]
+
+
 
 <!-- Links to Shields Here -->
 [c-shield]: https://img.shields.io/badge/-C-3744A7?logo=c&logoColor=white&style=for-the-badge
@@ -97,4 +121,9 @@ A readme best describes the content and aim of your repository and the project, 
 [keras-shield]:https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white&style=for-the-badge
 [pytorch-shield]: https://img.shields.io/badge/-Pytorch-E74A2B?logo=pytorch&logoColor=white&style=for-the-badge
 [apachespark-shield]: https://img.shields.io/badge/-Apache%20Spark-3A383C?logo=apache%20spark&logoColor=DA4D00&style=for-the-badge
+[github-shield]: https://img.shields.io/badge/-GITHUB-1A1E22?logo=github&logoColor=white&style=for-the-badge
+[instagram-shield]:https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge
+[linkedin]:https://www.linkedin.com/in/umang-tiwari-bb9781193/
+[instagram]:https://www.instagram.com/oxy.moronguy/
 
