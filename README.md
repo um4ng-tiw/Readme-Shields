@@ -2,7 +2,7 @@
 
 ### 🧐 About
 
-A readme best describes the content and aim of your repository and the project, however most of your time should be spent on building amazing things rather than a readme. This repo provides the Github users with various shields to be used in their readme file to make it aesthetically pleasing. The repo also consists of a sample readme inspired by https://github.com/othneildrew/Best-README-Template with a few changes.
+A readme best describes the content and aim of your repository and the project, however most of your time should be spent on building amazing things rather than a readme. This repo provides the Github users with various shields to be used in their readme file to make it aesthetically pleasing. The repo also consists of a sample readme based on https://github.com/othneildrew/Best-README-Template with a few changes.
 
 ## Shields
 
@@ -32,10 +32,18 @@ A readme best describes the content and aim of your repository and the project, 
 ![cassandra-shield]
 
 ### Web Dev
+![html-shield]
+![css-shield]
 ![express-shield]
 ![django-shield]
 ![rails-shield]
 ![laravel-shield]
+![spring-shield]
+![angular-shield]
+![react-shield]
+![vue-shield]
+![node-shield]
+![npm-shield]
 
 <!-- Links to Shields Here -->
 [c-shield]: https://img.shields.io/badge/-C-3744A7?logo=c&logoColor=white&style=for-the-badge
@@ -62,3 +70,11 @@ A readme best describes the content and aim of your repository and the project, 
 [django-shield]: https://img.shields.io/badge/-Django-114A34?logo=django&logoColor=white&style=for-the-badge
 [rails-shield]: https://img.shields.io/badge/-Rails-C60000?logo=ruby%20on%20rails&logoColor=white&style=for-the-badge
 [laravel-shield]: https://img.shields.io/badge/-Laravel-E8392C?logo=laravel&logoColor=white&style=for-the-badge
+[spring-shield]: https://img.shields.io/badge/-Spring-66B129?logo=spring&logoColor=white&style=for-the-badge
+[angular-shield]: https://img.shields.io/badge/-Angular-D83535?logo=angular&logoColor=white&style=for-the-badge
+[react-shield]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
+[vue-shield]: https://img.shields.io/badge/-VueJS-00C480?logo=vue&logoColor=white&style=for-the-badge
+[node-shield]: https://img.shields.io/badge/-NodeJS-8BBF3D?logo=node&logoColor=black&style=for-the-badge
+[npm-shield]: https://img.shields.io/badge/-NPM-C63636?logo=npm&logoColor=black&style=for-the-badge
+[html-shield]: https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge
+[css-shield]: https://img.shields.io/badge/-CSS-2862E9?logo=css3&logoColor=white&style=for-the-badge
