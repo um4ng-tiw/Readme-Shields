@@ -28,6 +28,12 @@ A readme best describes the content and aim of your repository and the project, 
 ![postgresql-shield]
 ![mariadb-shield]
 ![elasticsearch-shield]
+![kafka-shield]
+![cassandra-shield]
+
+### Web Dev
+![express-shield]
+![django-shield]
 
 <!-- Links to Shields Here -->
 [c-shield]: https://img.shields.io/badge/-C-3744A7?logo=c&logoColor=white&style=for-the-badge
@@ -48,4 +54,7 @@ A readme best describes the content and aim of your repository and the project, 
 [postgresql-shield]: https://img.shields.io/badge/-POSTGRESQL-325C8E?logo=postgreSQL&logoColor=white&style=for-the-badge
 [mariadb-shield]: https://img.shields.io/badge/-MariaDB-BA7257?logo=mariaDB&logoColor=white&style=for-the-badge
 [elasticsearch-shield]: https://img.shields.io/badge/-ElasticSearch-11B1AA?logo=elasticsearch&logoColor=white&style=for-the-badge
-
+[kafka-shield]: https://img.shields.io/badge/-Kafka-000000?logo=kafkadb&logoColor=white&style=for-the-badge
+[cassandra-shield]: https://img.shields.io/badge/-Cassandra-C9E4F2?logo=cassandra&logoColor=white&style=for-the-badge
+[express-shield]: https://img.shields.io/badge/-Express-EBD81C?logo=express&logoColor=black&style=for-the-badge
+[django-shield]: https://img.shields.io/badge/-Django-092D1F?logo=django&logoColor=white&style=for-the-badge
