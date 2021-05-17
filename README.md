@@ -18,7 +18,7 @@ A readme best describes the content and aim of your repository and the project, 
 ![r-shield]
 ![go-shield]
 ![swift-shield]
-
+![perl-shield]
 
 
 <!-- Links to Shields Here -->
@@ -34,3 +34,4 @@ A readme best describes the content and aim of your repository and the project, 
 [r-shield]: https://img.shields.io/badge/-R-2062B0?logo=R&logoColor=white&style=for-the-badge
 [go-shield]: https://img.shields.io/badge/-GO-00A7D0?logo=Go&logoColor=white&style=for-the-badge
 [swift-shield]: https://img.shields.io/badge/-SWIFT-F64014?logo=swift&logoColor=white&style=for-the-badge
+[perl-shield]: https://img.shields.io/badge/-Perl-374680?logo=perl&logoColor=white&style=for-the-badge
