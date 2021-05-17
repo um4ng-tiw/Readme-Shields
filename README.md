@@ -27,6 +27,7 @@ A readme best describes the content and aim of your repository and the project, 
 ![redis-shield]
 ![postgresql-shield]
 ![mariadb-shield]
+![elasticsearch-shield]
 
 <!-- Links to Shields Here -->
 [c-shield]: https://img.shields.io/badge/-C-3744A7?logo=c&logoColor=white&style=for-the-badge
@@ -46,4 +47,5 @@ A readme best describes the content and aim of your repository and the project, 
 [redis-shield]: https://img.shields.io/badge/-Redis-DF6C64?logo=redis&logoColor=white&style=for-the-badge
 [postgresql-shield]: https://img.shields.io/badge/-POSTGRESQL-325C8E?logo=postgreSQL&logoColor=white&style=for-the-badge
 [mariadb-shield]: https://img.shields.io/badge/-MariaDB-BA7257?logo=mariaDB&logoColor=white&style=for-the-badge
+[elasticsearch-shield]: https://img.shields.io/badge/-ElasticSearch-11B1AA?logo=elasticsearch&logoColor=white&style=for-the-badge
 
