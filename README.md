@@ -34,6 +34,8 @@ A readme best describes the content and aim of your repository and the project, 
 ### Web Dev
 ![express-shield]
 ![django-shield]
+![rails-shield]
+![laravel-shield]
 
 <!-- Links to Shields Here -->
 [c-shield]: https://img.shields.io/badge/-C-3744A7?logo=c&logoColor=white&style=for-the-badge
@@ -58,3 +60,5 @@ A readme best describes the content and aim of your repository and the project, 
 [cassandra-shield]: https://img.shields.io/badge/-Cassandra-C9E4F2?logo=cassandra&logoColor=white&style=for-the-badge
 [express-shield]: https://img.shields.io/badge/-Express-EBD81C?logo=express&logoColor=black&style=for-the-badge
 [django-shield]: https://img.shields.io/badge/-Django-114A34?logo=django&logoColor=white&style=for-the-badge
+[rails-shield]: https://img.shields.io/badge/-Rails-C60000?logo=ruby%20on%20rails&logoColor=white&style=for-the-badge
+[laravel-shield]: https://img.shields.io/badge/-Laravel-E8392C?logo=laravel&logoColor=white&style=for-the-badge
