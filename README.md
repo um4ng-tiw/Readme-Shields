@@ -9,15 +9,15 @@ A readme best describes the content and aim of your repository and the project, 
 ![c-shield]
 ![cpp-shield]
 ![java-shield]
-![python]
-
+![python-shield]
+![csharp-shield]
 
 
 <!-- Links to Shields Here -->
 [c-shield]: https://img.shields.io/badge/-C-3744A7?logo=c&logoColor=white&style=for-the-badge
-[cpp-shield]: https://img.shields.io/badge/-C++-5B92C8?logo=cplusplus&logoColor=white&style=for-the-badge
+[cpp-shield]: https://img.shields.io/badge/-C++-5B92C8?logo=c%2B%2B&logoColor=white&style=for-the-badge
 [java-shield]: https://img.shields.io/badge/-Java-E06C00?logo=java&logoColor=white&style=for-the-badge
 [python-shield]: https://img.shields.io/badge/-Python-3A74A5?logo=python&logoColor=white&style=for-the-badge
-
+[csharp-shield]: https://img.shields.io/badge/-C%20%23-903BA7?logo=c%20sharp&logoColor=white&style=for-the-badge
 
 
