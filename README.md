@@ -36,6 +36,7 @@ A readme best describes the content and aim of your repository and the project, 
 ![css-shield]
 ![express-shield]
 ![django-shield]
+![flask-shield]
 ![rails-shield]
 ![laravel-shield]
 ![spring-shield]
@@ -49,6 +50,9 @@ A readme best describes the content and aim of your repository and the project, 
 ![sklearn-shield]
 ![pandas-shield]
 ![opencv-shield]
+![tensorflow-shield]
+![keras-shield]
+![pytorch-shield]
 
 
 <!-- Links to Shields Here -->
@@ -70,8 +74,8 @@ A readme best describes the content and aim of your repository and the project, 
 [postgresql-shield]: https://img.shields.io/badge/-POSTGRESQL-325C8E?logo=postgreSQL&logoColor=white&style=for-the-badge
 [mariadb-shield]: https://img.shields.io/badge/-MariaDB-BA7257?logo=mariaDB&logoColor=white&style=for-the-badge
 [elasticsearch-shield]: https://img.shields.io/badge/-ElasticSearch-11B1AA?logo=elasticsearch&logoColor=white&style=for-the-badge
-[kafka-shield]: https://img.shields.io/badge/-Kafka-000000?logo=kafkadb&logoColor=white&style=for-the-badge
-[cassandra-shield]: https://img.shields.io/badge/-Cassandra-C9E4F2?logo=cassandra&logoColor=white&style=for-the-badge
+[kafka-shield]: https://img.shields.io/badge/-Kafka-000000?logo=Apache%20Kafka&logoColor=white&style=for-the-badge
+[cassandra-shield]: https://img.shields.io/badge/-Cassandra-C9E4F2?logo=Apache%20Cassandra&logoColor=white&style=for-the-badge
 [express-shield]: https://img.shields.io/badge/-Express-EBD81C?logo=express&logoColor=black&style=for-the-badge
 [django-shield]: https://img.shields.io/badge/-Django-114A34?logo=django&logoColor=white&style=for-the-badge
 [rails-shield]: https://img.shields.io/badge/-Rails-C60000?logo=ruby%20on%20rails&logoColor=white&style=for-the-badge
@@ -79,11 +83,16 @@ A readme best describes the content and aim of your repository and the project, 
 [spring-shield]: https://img.shields.io/badge/-Spring-66B129?logo=spring&logoColor=white&style=for-the-badge
 [angular-shield]: https://img.shields.io/badge/-Angular-D83535?logo=angular&logoColor=white&style=for-the-badge
 [react-shield]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
-[vue-shield]: https://img.shields.io/badge/-VueJS-00C480?logo=vue&logoColor=white&style=for-the-badge
-[node-shield]: https://img.shields.io/badge/-NodeJS-8BBF3D?logo=node&logoColor=black&style=for-the-badge
+[flask-shield]: https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=for-the-badge
+[vue-shield]: https://img.shields.io/badge/-VueJS-00C480?logo=vue-dot-js&logoColor=white&style=for-the-badge
+[node-shield]: https://img.shields.io/badge/-NodeJS-8BBF3D?logo=node-dot-js&logoColor=black&style=for-the-badge
 [npm-shield]: https://img.shields.io/badge/-NPM-C63636?logo=npm&logoColor=black&style=for-the-badge
 [html-shield]: https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge
 [css-shield]: https://img.shields.io/badge/-CSS-2862E9?logo=css3&logoColor=white&style=for-the-badge
 [sklearn-shield]: https://img.shields.io/badge/-SCIKIT%20LEARN-F09534?logo=scikit-learn&logoColor=white&style=for-the-badge
 [pandas-shield]: https://img.shields.io/badge/-pandas-120751?logo=pandas&logoColor=white&style=for-the-badge
 [opencv-shield]: https://img.shields.io/badge/-OpenCV-red?logo=opencv&logoColor=white&style=for-the-badge
+[tensorflow-shield]:https://img.shields.io/badge/-Tensorflow-orange?logo=tensorflow&logoColor=white&style=for-the-badge
+[keras-shield]:https://img.shields.io/badge/-Keras-red?logo=keras&logoColor=white&style=for-the-badge
+[pytorch-shield]: https://img.shields.io/badge/-Pytorch-E74A2B?logo=pytorch&logoColor=white&style=for-the-badge
+
