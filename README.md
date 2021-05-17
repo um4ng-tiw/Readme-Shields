@@ -45,6 +45,12 @@ A readme best describes the content and aim of your repository and the project, 
 ![node-shield]
 ![npm-shield]
 
+## AI/ML
+![sklearn-shield]
+![pandas-shield]
+![opencv-shield]
+
+
 <!-- Links to Shields Here -->
 [c-shield]: https://img.shields.io/badge/-C-3744A7?logo=c&logoColor=white&style=for-the-badge
 [cpp-shield]: https://img.shields.io/badge/-C++-5B92C8?logo=c%2B%2B&logoColor=white&style=for-the-badge
@@ -78,3 +84,6 @@ A readme best describes the content and aim of your repository and the project, 
 [npm-shield]: https://img.shields.io/badge/-NPM-C63636?logo=npm&logoColor=black&style=for-the-badge
 [html-shield]: https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge
 [css-shield]: https://img.shields.io/badge/-CSS-2862E9?logo=css3&logoColor=white&style=for-the-badge
+[sklearn-shield]: https://img.shields.io/badge/-SCIKIT%20LEARN-F09534?logo=scikit-learn&logoColor=white&style=for-the-badge
+[pandas-shield]: https://img.shields.io/badge/-pandas-120751?logo=pandas&logoColor=white&style=for-the-badge
+[opencv-shield]: https://img.shields.io/badge/-OpenCV-red?logo=opencv&logoColor=white&style=for-the-badge
