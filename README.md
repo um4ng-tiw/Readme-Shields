@@ -57,4 +57,4 @@ A readme best describes the content and aim of your repository and the project, 
 [kafka-shield]: https://img.shields.io/badge/-Kafka-000000?logo=kafkadb&logoColor=white&style=for-the-badge
 [cassandra-shield]: https://img.shields.io/badge/-Cassandra-C9E4F2?logo=cassandra&logoColor=white&style=for-the-badge
 [express-shield]: https://img.shields.io/badge/-Express-EBD81C?logo=express&logoColor=black&style=for-the-badge
-[django-shield]: https://img.shields.io/badge/-Django-092D1F?logo=django&logoColor=white&style=for-the-badge
+[django-shield]: https://img.shields.io/badge/-Django-114A34?logo=django&logoColor=white&style=for-the-badge
