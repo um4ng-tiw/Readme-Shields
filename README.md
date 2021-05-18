@@ -47,6 +47,7 @@ A readme best describes the content and aim of your repository and the project, 
 ![vue-shield]
 ![node-shield]
 ![npm-shield]
+![socketio-shield]
 
 ### AI/ML
 ![sklearn-shield]
@@ -111,6 +112,7 @@ Contributions are what make the open source community such an amazing place to b
 [flask-shield]: https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=for-the-badge
 [vue-shield]: https://img.shields.io/badge/-VueJS-00C480?logo=vue-dot-js&logoColor=white&style=for-the-badge
 [node-shield]: https://img.shields.io/badge/-NodeJS-8BBF3D?logo=node-dot-js&logoColor=black&style=for-the-badge
+[socketio-shield]: https://img.shields.io/badge/-Socket.io-black?logo=socket-dot-io&logoColor=white&style=for-the-badge
 [npm-shield]: https://img.shields.io/badge/-NPM-C63636?logo=npm&logoColor=black&style=for-the-badge
 [html-shield]: https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge
 [css-shield]: https://img.shields.io/badge/-CSS-2862E9?logo=css3&logoColor=white&style=for-the-badge
