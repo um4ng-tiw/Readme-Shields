@@ -1,4 +1,4 @@
-# Application Name here
+# Project Name here
 
 **To use more shields see the readme of this repository. Star and share with friends**
 
