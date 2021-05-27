@@ -44,6 +44,7 @@ A readme best describes the content and aim of your repository and the project, 
 ![spring-shield]
 ![angular-shield]
 ![react-shield]
+![nextjs-shield]
 ![vue-shield]
 ![node-shield]
 ![npm-shield]
@@ -109,6 +110,7 @@ Contributions are what make the open source community such an amazing place to b
 [spring-shield]: https://img.shields.io/badge/-Spring-66B129?logo=spring&logoColor=white&style=for-the-badge
 [angular-shield]: https://img.shields.io/badge/-Angular-D83535?logo=angular&logoColor=white&style=for-the-badge
 [react-shield]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
+[nextjs-shield]: https://img.shields.io/badge/-Next.js-black?logo=next-dot-js&logoColor=white&style=for-the-badge
 [flask-shield]: https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=for-the-badge
 [vue-shield]: https://img.shields.io/badge/-VueJS-00C480?logo=vue-dot-js&logoColor=white&style=for-the-badge
 [node-shield]: https://img.shields.io/badge/-NodeJS-8BBF3D?logo=node-dot-js&logoColor=black&style=for-the-badge
